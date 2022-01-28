@@ -1,6 +1,6 @@
 # Deckforce
 
-Deckforce is a game I made with friends as a project during our first semester at Keimyung University.
+Deckforce is a Unity game I made with friends as a project during our first semester at Keimyung University.
 For our Game Project course, we were asked to develop a game of our choice. We chose to make a multiplayer PvP turn-by-turn card game.
 
 ## How the game works
